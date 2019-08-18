@@ -61,10 +61,9 @@
 								<image>openjdk:8-jre-slim</image>
 							</from>
 							<to>
-								<image>${docker.name}</image>
-						<!-- 		<image>erankurkoul4docker/hello-world-built-with-jib-docker</image> -->
+							<!-- 	<image>${docker.name}</image> -->
+								<image>erankurkoul4docker/hello-world-built-with-jib-docker</image>
 							</to>
-							<allowInsecureRegistries>true</allowInsecureRegistries>
 							<container>
 								<environment>
 									<_JAVA_OPTIONS>'-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=5005'</_JAVA_OPTIONS>

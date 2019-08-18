@@ -6,10 +6,10 @@ BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
 Framework arguments:  -product org.springsource.sts.ide
 Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.springsource.sts.ide
 
-This is a continuation of log file E:\PRACTICE-WORK\JAVA_TO_KUBERNETES-PRACTICE\.metadata\.bak_1.log
-Created Time: 2019-08-18 16:35:02.393
+This is a continuation of log file E:\PRACTICE-WORK\JAVA_TO_KUBERNETES-PRACTICE\.metadata\.bak_0.log
+Created Time: 2019-08-18 16:10:28.475
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:35:02.397
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:10:28.479
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
@@ -1652,7 +1652,7 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
 	... 18 more
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:35:15.303
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:10:44.022
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
@@ -3295,7 +3295,7 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
 	... 18 more
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:45:55.850
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:21:12.970
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
@@ -4938,7 +4938,7 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
 	... 18 more
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:46:17.026
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:29:37.280
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
@@ -6581,7 +6581,7 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
 	... 18 more
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:46:48.778
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:29:50.066
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
@@ -8224,7 +8224,7 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
 	... 18 more
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:56:09.437
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:30:29.245
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
@@ -9867,7 +9867,7 @@ Caused by: java.lang.IllegalArgumentException: Can not set org.eclipse.aether.sp
 	at org.codehaus.plexus.DefaultPlexusContainer.lookup(DefaultPlexusContainer.java:263)
 	... 18 more
 
-!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:57:05.027
+!ENTRY org.eclipse.core.jobs 4 2 2019-08-18 16:34:35.191
 !MESSAGE An internal error occurred during: "Loading pom.xml".
 !STACK 0
 org.eclipse.m2e.core.internal.NoSuchComponentException: org.codehaus.plexus.component.repository.exception.ComponentLookupException: com.google.inject.ProvisionException: Unable to provision, see the following errors:
